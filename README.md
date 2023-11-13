@@ -34,8 +34,8 @@ This Python script efficiently classifies images based on their average color an
 ## Example
 
 - Consider running the script on a folder containing a mix of JPEG, PNG, and RAW image files. The script will create subfolders ('red', 'green', 'blue') and organize images based on their predominant color.
-```bash
-python image_classifier.py
+   ```bash
+   python image_classifier.py
 
 ## Contributing
 
